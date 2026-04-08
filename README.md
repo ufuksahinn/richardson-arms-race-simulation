@@ -66,6 +66,7 @@ Richardson's classical result is that the equilibrium is stable if and only if `
 | s (USSR grievance) | 0.053 | Soviet baseline spending independent of USA |
 
 Both reaction coefficients are small and close to each other, suggesting neither side was dramatically more reactive than the other at the aggregate level. The Soviet grievance term (`s = 0.053`) is notably larger than the US equivalent (`r = 0.031`), consistent with the USSR's historical posture: a deep-seated threat perception rooted in World War II losses and NATO expansion that sustained Soviet spending even in periods of relative US restraint.
+![Parameter Fit](figures/fit_result.png)
 
 ### Stability
 
@@ -91,6 +92,11 @@ The phase margin, however, is 1.08 degrees. The system is stable, but barely. An
 
 This is not a flaw in the controller design. It reflects something real: arms race dynamics are genuinely difficult to damp, and small perturbations in reaction speed can have large effects on the quality of the response. A state that reacts too quickly to every signal will overshoot; one that reacts too slowly will fall behind. The 1-degree phase margin says the Cold War policy sat almost exactly at that knife edge.
 
+![Root Locus](figures/root_locus.png)
+
+![Step Response](figures/step_response.png)
+
+![Bode Plot](figures/bode.png)
 ---
 
 ## Repository Structure
