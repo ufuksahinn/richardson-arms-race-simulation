@@ -66,6 +66,7 @@ Richardson's classical result is that the equilibrium is stable if and only if `
 | s (USSR grievance) | 0.053 | Soviet baseline spending independent of USA |
 
 Both reaction coefficients are small and close to each other, suggesting neither side was dramatically more reactive than the other at the aggregate level. The Soviet grievance term (`s = 0.053`) is notably larger than the US equivalent (`r = 0.031`), consistent with the USSR's historical posture: a deep-seated threat perception rooted in World War II losses and NATO expansion that sustained Soviet spending even in periods of relative US restraint.
+
 ![Parameter Fit](figures/fit_result.png)
 
 ### Stability
